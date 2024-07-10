@@ -4,12 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Competitive+Programmer;Expert+on+Codeforces;Division+2+on+CodeChef+(4+Stars);5+Kyu(green)+on+AtCoder;Always+learning+new+things">
   </a>
 </p>
-<br>
-
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=sarthakkapoor44&label=Profile%20views&color=0047AB&style=plastic?" alt="sarthakkapoor44" height=25px, width=160px/> 
-<p align="center"> 
-	
 </p>
 
 
@@ -224,45 +218,5 @@
 ---
 
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
-
-----	
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakkapoor44&theme=tokyonight_duo" alt="sarthakkapoor44" /></p>
-
-</details>
   
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-
-----
-	
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="sarthakkapoor44's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sarthakkapoor44&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthakkapoor44&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="sarthakkapoor44" height="230px"/>
-<br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
-
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-----
-	
-[![sarthak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sarthakkapoor44)](https://github.com/sarthakkapoor44/github-readme-activity-graph)
-
- 
-</details>
-
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
-
-----
-	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthakkapoor44&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
-
-[![@gs01's Holopin board](https://holopin.io/api/user/board?user=gs01)](https://holopin.io/@gs01)
-	
-</details>
