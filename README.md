@@ -8,9 +8,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-<br><br>
-
+<br>
 -  I am a `Pre-Final yearite` at [Department of Computer Science and Engineering](https://www.iitg.ac.in/cse/) at [Indian Institute of Technology Guwahati](https://iitg.ac.in/).
 - I love using Software as a solution for every `Problem`.
 - I am a competitive programmer at `Codeforces`, `Atcoder`, `Codechef`, `Leetcode`.
