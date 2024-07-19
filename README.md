@@ -8,7 +8,6 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-<br>
 -  I am a `Pre-Final yearite` at [Department of Computer Science and Engineering](https://www.iitg.ac.in/cse/) at [Indian Institute of Technology Guwahati](https://iitg.ac.in/).
 - I love using Software as a solution for every `Problem`.
 - I am a competitive programmer at `Codeforces`, `Atcoder`, `Codechef`, `Leetcode`.
@@ -44,7 +43,7 @@
   <tr>
     <td style="width: 33%;">
       <a href="https://github.com/sarthakkapoor44/DBMS-with-C">
-        <img src="https://github.com/sarthakkapoor44/sarthakkapoor44/blob/main/assets/dbms2.png" alt="DBMS Using C" style="width: 100%; max-width: 300px; height: auto;">
+        <img src="https://github.com/sarthakkapoor44/portfolio/blob/main/assets/dbms2.png" alt="DBMS Using C" style="width: 100%; max-width: 300px; height: auto;">
 	</a>
 	<a href="https://github.com/sarthakkapoor44/DBMS-with-C">
 		<p align="center"><b>DBMS Using C</b></p>
@@ -52,13 +51,13 @@
     </td>
     <td style="width: 33%;">
       <a href="https://github.com/sarthakkapoor44/Unconditional_image_generation_using_diffusion_model">
-        <img src="https://github.com/sarthakkapoor44/sarthakkapoor44/blob/main/assets/image.png" alt="Unconditional Image Generation using Diffusion model" style="width: 100%; max-width: 300px; height: auto;">
+        <img src="https://github.com/sarthakkapoor44/portfolio/blob/main/assets/image.png" alt="Unconditional Image Generation using Diffusion model" style="width: 100%; max-width: 300px; height: auto;">
         <p align="center"><b>Unconditional Image Generation using Diffusion model</b></p>
       </a>
     </td>
     <td style="width: 33%;">
       <a href="https://github.com/sarthakkapoor44/Inter_iit_12.0">
-        <img src="https://github.com/sarthakkapoor44/sarthakkapoor44/blob/main/assets/btc.png" alt="Algorithmic Trading Strategy on BTC/USDT market" style="width: 100%; max-width: 300px; height: auto;">
+        <img src="https://github.com/sarthakkapoor44/portfolio/blob/main/assets/btc.png" alt="Algorithmic Trading Strategy on BTC/USDT market" style="width: 100%; max-width: 300px; height: auto;">
         <p align="center"><b>Algorithmic Trading Strategy on BTC/USDT market</b></p>
       </a>
     </td>
@@ -66,13 +65,13 @@
   <tr>
     <td style="width: 33%;">
       <a href="https://github.com/himanshu-skid19/google-vertex-ai-hackathon">
-        <img src="https://github.com/sarthakkapoor44/sarthakkapoor44/blob/main/assets/career.png" alt="LLM powered Career Advisor and Interviewer" style="width: 100%; max-width: 300px; height: auto;">
+        <img src="https://github.com/sarthakkapoor44/portfolio/blob/main/assets/career.png" alt="LLM powered Career Advisor and Interviewer" style="width: 100%; max-width: 300px; height: auto;">
         <p align="center"><b>LLM powered Career Advisor and Interviewer</b></p>
       </a>
     </td>
     <td style="width: 33%;">
       <a href="https://github.com/sarthakkapoor44/Pairs-Trading">
-        <img src="https://github.com/sarthakkapoor44/sarthakkapoor44/blob/main/assets/pairs.png" alt="Pairs Trading" style="width: 100%; max-width: 300px; height: auto;">
+        <img src="https://github.com/sarthakkapoor44/portfolio/blob/main/assets/pairs.png" alt="Pairs Trading" style="width: 100%; max-width: 300px; height: auto;">
         <p align="center"><b>Pairs Trading</b></p>
       </a>
     </td>
