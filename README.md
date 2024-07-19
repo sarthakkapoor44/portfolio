@@ -4,10 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Competitive+Programmer;Expert+on+Codeforces;Division+2+on+CodeChef+(4+Stars);5+Kyu(green)+on+AtCoder;Always+learning+new+things">
   </a>
 </p>
-</p>
-
-
-
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
@@ -15,11 +11,11 @@
 
 <br><br>
 
-- :school: I am a `Pre-Final yearite` at [Department of Computer Science and Engineering](https://www.iitg.ac.in/cse/) at [Indian Institute of Technology Guwahati](https://iitg.ac.in/).
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Codechef`, `Leetcode`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
+-  I am a `Pre-Final yearite` at [Department of Computer Science and Engineering](https://www.iitg.ac.in/cse/) at [Indian Institute of Technology Guwahati](https://iitg.ac.in/).
+- I love using Software as a solution for every `Problem`.
+- I am a competitive programmer at `Codeforces`, `Atcoder`, `Codechef`, `Leetcode`.
+- I’m currently learning `Computer Science` and `Software Engineering`.
+- Always `learning new things`.
 <!-- - :boom: You can visit [my website](https://sarthakkapoor44.github.io/). -->
 <br>
 
@@ -148,7 +144,7 @@
 </p>
 
 
- ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50px"> </picture> Software & Tools
+<picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50px"> </picture> Software & Tools
 
 <p align="center">
   &emsp;
@@ -177,7 +173,7 @@
 
 
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
+<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
  
 <p align="center">
   &emsp;
@@ -202,7 +198,7 @@
     <a href="#"><img src="https://img.shields.io/badge/PyTorch-1.9.0-black?style=plastic&logo=pytorch&logoColor=white"></a>
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
+ <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
  
 <p align="center">
   &emsp;
